@@ -2,7 +2,7 @@
 i'am an Electronic Automatic Engineer | Pioneering AI-Driven Robotics, Aeronautics & Automation | Innovating Electronics for Tomorrow’s Tech
 
 # 💫 About Me:
-🔭 I’m currently learning with IA on today 's world skills<br>⚡ 
+🔭 I’m currently learning with IA on today 's world skills<br>
 
 
 ## 🌐 Socials:
