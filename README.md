@@ -1,31 +1,29 @@
 <!-- ============================================================
-     ⚡  PROFILE README — Electronics & Automation Engineer
+     ⚡  PROFILE README — Dhafer Knani
      Style: Dark Industrial · Circuit-board terminal aesthetic
      Focus: Embedded · PCB · IoT · Industrial Automation
-     Level: Mid-level (3–6 yrs)
      ============================================================ -->
 
 <div align="center">
 
 <!-- HERO BANNER -->
-<img src="https://capsule-render.vercel.app/api?type=cylinder&color=0:0a0e1a,30:001a2e,60:003045,100:0a0e1a&height=220&section=header&text=YOUR%20NAME&fontSize=65&fontColor=00ffe0&fontAlignY=42&desc=[ Electronics%20·%20Automation%20·%20Embedded%20·%20IoT%20]&descAlignY=65&descColor=7ecfff&animation=blinking&stroke=00ffe0&strokeWidth=1" width="100%"/>
+<img src="https://capsule-render.vercel.app/api?type=cylinder&color=0:0a0e1a,30:001a2e,60:003045,100:0a0e1a&height=220&section=header&text=Dhafer%20Knani&fontSize=65&fontColor=00ffe0&fontAlignY=42&desc=[ Electronics%20·%20Automation%20·%20Embedded%20·%20IoT%20]&descAlignY=65&descColor=7ecfff&animation=blinking&stroke=00ffe0&strokeWidth=1" width="100%"/>
 
 <!-- ANIMATED TERMINAL SUBTITLE -->
 <a href="https://git.io/typing-svg">
-  <img src="https://readme-typing-svg.demolab.com?font=Share+Tech+Mono&size=17&duration=2500&pause=800&color=00FFE0&center=true&vCenter=true&width=750&lines=%3E+Booting+engineer.exe+...+%5BOK%5D;%3E+Loading+schematic_brain.sch+...+%5BOK%5D;%3E+Flashing+firmware_v4.2.1+...+%5BOK%5D;%3E+PLC+Heartbeat+...+RUNNING;%3E+PCB+layers%3A+4+%7C+DRC+errors%3A+0+%7C+Status%3A+CLEAN;%3E+MQTT+broker+connected+...+%5BOK%5D;%3E+All+systems+nominal.+Let%27s+build+something.+%E2%9A%A1" alt="Terminal typing"/>
+  <img src="https://readme-typing-svg.demolab.com?font=Share+Tech+Mono&size=17&duration=2500&pause=800&color=00FFE0&center=true&vCenter=true&width=750&lines=%3E+Booting+engineer.exe+...+%5BOK%5D;%3E+Loading+schematic_brain.sch+...+%5BOK%5D;%3E+Flashing+firmware_v4.2.1+...+%5BOK%5D;%3E+Kalman+Filter+converged+...+%5BOK%5D;%3E+CubeSat+attitude+locked+%F0%9F%9B%B0%EF%B8%8F+...+%5BOK%5D;%3E+MQTT+broker+connected+...+%5BOK%5D;%3E+All+systems+nominal.+Let%27s+build+something.+%E2%9A%A1" alt="Terminal typing"/>
 </a>
 
 <br/>
 
 <!-- CONTACT BADGES -->
-[![LinkedIn](https://img.shields.io/badge/─%20LinkedIn%20─-0a0e1a?style=flat-square&logo=linkedin&logoColor=00ffe0)](https://linkedin.com/in/YOUR_USERNAME)
-[![Portfolio](https://img.shields.io/badge/─%20Portfolio%20─-0a0e1a?style=flat-square&logo=firefox&logoColor=00ffe0)](https://yourportfolio.com)
-[![Email](https://img.shields.io/badge/─%20Email%20─-0a0e1a?style=flat-square&logo=protonmail&logoColor=00ffe0)](mailto:your.email@gmail.com)
-[![GitHub](https://img.shields.io/badge/─%20@YOUR__USERNAME%20─-0a0e1a?style=flat-square&logo=github&logoColor=00ffe0)](https://github.com/YOUR_USERNAME)
+[![LinkedIn](https://img.shields.io/badge/─%20LinkedIn%20─-0a0e1a?style=flat-square&logo=linkedin&logoColor=00ffe0)](https://www.linkedin.com/in/dhafer-knani-b363b72a6/)
+[![Email](https://img.shields.io/badge/─%20dhaferknani02@gmail.com%20─-0a0e1a?style=flat-square&logo=gmail&logoColor=00ffe0)](mailto:dhaferknani02@gmail.com)
+[![GitHub](https://img.shields.io/badge/─%20@knani__dhafer%20─-0a0e1a?style=flat-square&logo=github&logoColor=00ffe0)](https://github.com/knani_dhafer)
 
 <br/>
 
-![Visitors](https://komarev.com/ghpvc/?username=YOUR_USERNAME&color=00ffe0&style=flat-square&label=SIGNAL+RECEIVED)
+![Visitors](https://komarev.com/ghpvc/?username=knani_dhafer&color=00ffe0&style=flat-square&label=SIGNAL+RECEIVED)
 
 </div>
 
@@ -37,16 +35,18 @@
 ╔══════════════════════════════════════════════════════════════════════╗
 ║            ENGINEER IDENTIFICATION — UNIT PROFILE v1.0              ║
 ╠══════════════════════════════════════════════════════════════════════╣
-║  CALLSIGN    : YOUR NAME                                             ║
-║  LOCATION    : Tunisia 🇹🇳                 UPTIME : ~4 years         ║
-║  ROLE        : Electronics & Automation Engineer                     ║
+║  CALLSIGN    : Dhafer Knani                                          ║
+║  LOCATION    : Tunisia 🇹🇳  —  Sousse                                ║
+║  STATUS      : Final-year Engineering Student                        ║
+║  SCHOOL      : École Polytechnique de Sousse                         ║
+║  DEGREE      : Electronics & Automatic Engineering (in progress)     ║
 ║  DOMAINS     : Embedded · PCB Design · IoT · Industrial Automation   ║
 ║  LANGUAGES   : C · C++ · Python · MATLAB · Ladder Logic · ST        ║
 ║  OS          : Linux (daily) · Windows (forced by clients)           ║
 ║  EDITOR      : VSCode + PlatformIO  /  STM32CubeIDE  /  KiCad       ║
 ║  COFFEE/DAY  : ████████░░  ~3 cups   BUGS FOUND/DAY: too many       ║
 ╠══════════════════════════════════════════════════════════════════════╣
-║  STATUS      : [●] BUILDING  [●] LEARNING  [○] SLEEPING             ║
+║  CURRENT MISSION : Attitude Determination of a CubeSat 🛰️           ║
 ╚══════════════════════════════════════════════════════════════════════╝
 ```
 
@@ -54,7 +54,7 @@
 
 ## `// 01 — FIRMWARE & EMBEDDED SYSTEMS`
 
-<img align="right" width="340" src="https://github-readme-stats.vercel.app/api/top-langs/?username=YOUR_USERNAME&layout=compact&theme=dark&bg_color=0a0e1a&border_color=00ffe0&title_color=00ffe0&text_color=7ecfff&hide_border=false&langs_count=8"/>
+<img align="right" width="340" src="https://github-readme-stats.vercel.app/api/top-langs/?username=knani_dhafer&layout=compact&theme=dark&bg_color=0a0e1a&border_color=00ffe0&title_color=00ffe0&text_color=7ecfff&hide_border=false&langs_count=8"/>
 
 **Microcontrollers I speak fluently:**
 
@@ -185,13 +185,6 @@ Schneider  → Modicon M340/M580
 **Industrial Networks:**
 `PROFIBUS DP/PA` · `PROFINET IO` · `Modbus RTU/TCP` · `EtherNet/IP` · `OPC-UA` · `DeviceNet` · `AS-Interface`
 
-**Systems I've delivered:**
-- 🔄 Conveyor & sorting lines with vision integration
-- 💧 Water treatment plant SCADA (remote supervision)
-- 🌡️ Temperature / pressure PID process control
-- ⚡ Motor control centers with VFDs & soft-starters
-- 🔒 Safety circuits: E-stops, light curtains (SIL 2)
-
 ---
 
 ## `// 05 — CONTROL THEORY & DSP`
@@ -203,6 +196,10 @@ control_arsenal = {
                    "Bode / Nyquist analysis", "Root locus design"],
     "modern"    : ["State-space representation", "LQR / pole placement",
                    "Luenberger observer design"],
+    "estimation": ["Extended Kalman Filter (EKF)",
+                   "Complementary Filter",
+                   "AHRS — Attitude & Heading Reference Systems",
+                   "Sensor fusion: IMU + Magnetometer + Gyroscope"],
     "digital"   : ["Discretization (ZOH, Tustin/bilinear)",
                    "IIR / FIR filter design", "FFT & spectral analysis"],
     "simulation": ["MATLAB / Simulink modeling",
@@ -214,22 +211,47 @@ control_arsenal = {
 
 ---
 
-## `// 06 — FEATURED PROJECTS`
-
-> *From napkin sketch → schematic → firmware → deployed system*
+## `// 06 — FEATURED PROJECT`
 
 <div align="center">
 
-| 🟢 | Project | Stack | Stars |
-|:---:|---|---|:---:|
-| ✅ | [**IoT Industrial Monitor**](https://github.com/YOUR_USERNAME/iot-industrial-monitor) — Real-time Modbus → MQTT → Grafana pipeline for factory floor | `ESP32` `Modbus` `MQTT` `InfluxDB` `KiCad` | ⭐ |
-| ✅ | [**STM32 FOC Motor Controller**](https://github.com/YOUR_USERNAME/stm32-foc-bldc) — Field-Oriented Control for BLDC with custom gate driver PCB | `STM32F4` `C` `Power Electronics` `CAN Bus` | ⭐ |
-| ✅ | [**LoRa Sensor Network**](https://github.com/YOUR_USERNAME/lora-sensor-network) — 12-node LoRaWAN weather + soil monitoring, solar-powered | `ESP32` `LoRa SX1276` `PCB` `AWS IoT` | ⭐ |
-| ✅ | [**PLC Batch Controller**](https://github.com/YOUR_USERNAME/plc-batch-control) — S7-1200 batch sequencing for chemical dosing + HMI | `Siemens` `TIA Portal` `WinCC` `PROFINET` | ⭐ |
-| 🔧 | [**RTOS Sensor Hub**](https://github.com/YOUR_USERNAME/rtos-sensor-hub) — FreeRTOS multi-sensor fusion on STM32H7 with USB-CDC live plot | `STM32H7` `FreeRTOS` `USB` `Python` | ⭐ |
-| 🔧 | [**KiCad Component Library**](https://github.com/YOUR_USERNAME/kicad-library) — 200+ custom symbols, footprints & 3D models for industrial parts | `KiCad` `Hardware` | ⭐ |
+```
+ ╔═══════════════════════════════════════════════════════════════════════╗
+ ║  🛰️  FLAGSHIP PROJECT                                                 ║
+ ║  Attitude Determination of a CubeSat                                  ║
+ ║  using Sensor Fusion of MEMS Sensors                                  ║
+ ╠═══════════════════════════════════════════════════════════════════════╣
+ ║                                                                       ║
+ ║  OBJECTIVE  : Determine the 3D orientation of a CubeSat in orbit      ║
+ ║               using low-cost MEMS inertial sensors                    ║
+ ║                                                                       ║
+ ║  ALGORITHMS : Kalman Filter (EKF)  ·  Complementary Filter            ║
+ ║               AHRS (Attitude & Heading Reference System)              ║
+ ║                                                                       ║
+ ║  SENSORS    : IMU (Accel + Gyro)  ·  Magnetometer  ·  Barometer      ║
+ ║                                                                       ║
+ ║  SUPERVISOR : Prof. Mounir Ben Ali                                    ║
+ ║  PLACE      : CRMN — Centre de Recherche en Microélectronique         ║
+ ║               et Nanotechnologie, Sousse 🇹🇳                          ║
+ ║  YEAR       : 2025 / 2026                                             ║
+ ║                                                                       ║
+ ║  STATUS     : [████████░░]  In progress — publishing soon 🔜          ║
+ ╚═══════════════════════════════════════════════════════════════════════╝
+```
 
 </div>
+
+**Core concepts at work:**
+
+| Module | Technology | Purpose |
+|---|---|---|
+| Sensor Fusion | EKF + Complementary Filter | Combine noisy MEMS data into clean attitude estimate |
+| AHRS | Madgwick / Mahony algorithm | Real-time quaternion orientation |
+| IMU calibration | Allan variance, bias estimation | Remove systematic MEMS errors |
+| Simulation | MATLAB / Simulink | Validate filters before hardware deployment |
+| Embedded target | STM32 / bare-metal C | Run filters in real-time on CubeSat OBC |
+
+> 🔜 *Repository will be made public upon project completion — watch this space.*
 
 ---
 
@@ -237,37 +259,38 @@ control_arsenal = {
 
 <div align="center">
 
-<img height="175" src="https://github-readme-stats.vercel.app/api?username=YOUR_USERNAME&show_icons=true&theme=dark&bg_color=0a0e1a&border_color=00ffe0&title_color=00ffe0&icon_color=7ecfff&text_color=c9d1e0&count_private=true&include_all_commits=true"/>
+<img height="175" src="https://github-readme-stats.vercel.app/api?username=knani_dhafer&show_icons=true&theme=dark&bg_color=0a0e1a&border_color=00ffe0&title_color=00ffe0&icon_color=7ecfff&text_color=c9d1e0&count_private=true&include_all_commits=true"/>
 &nbsp;
-<img height="175" src="https://streak-stats.demolab.com?user=YOUR_USERNAME&theme=dark&background=0a0e1a&border=00ffe0&stroke=7ecfff&ring=00ffe0&fire=ff6b35&currStreakLabel=00ffe0&sideLabels=7ecfff&currStreakNum=ffffff&sideNums=ffffff&dates=555e7a"/>
+<img height="175" src="https://streak-stats.demolab.com?user=knani_dhafer&theme=dark&background=0a0e1a&border=00ffe0&stroke=7ecfff&ring=00ffe0&fire=ff6b35&currStreakLabel=00ffe0&sideLabels=7ecfff&currStreakNum=ffffff&sideNums=ffffff&dates=555e7a"/>
 
 <br/><br/>
 
-<img src="https://github-readme-activity-graph.vercel.app/graph?username=YOUR_USERNAME&bg_color=0a0e1a&color=00ffe0&line=7ecfff&point=00ffe0&area_color=001a2e&area=true&hide_border=false&border_color=00ffe0&custom_title=Commit+Activity+Graph" width="97%"/>
+<img src="https://github-readme-activity-graph.vercel.app/graph?username=knani_dhafer&bg_color=0a0e1a&color=00ffe0&line=7ecfff&point=00ffe0&area_color=001a2e&area=true&hide_border=false&border_color=00ffe0&custom_title=Commit+Activity+Graph" width="97%"/>
 
 <br/>
 
-[![trophy](https://github-profile-trophy.vercel.app/?username=YOUR_USERNAME&theme=darkhub&column=7&margin-w=8&no-bg=true)](https://github.com/ryo-ma/github-profile-trophy)
+[![trophy](https://github-profile-trophy.vercel.app/?username=knani_dhafer&theme=darkhub&column=7&margin-w=8&no-bg=true)](https://github.com/ryo-ma/github-profile-trophy)
 
 </div>
 
 ---
 
-## `// 08 — CERTIFICATIONS`
+## `// 08 — CERTIFICATIONS & EXPERIENCE`
 
 ```
-┌─────────────────────────────────────────────────────────────────────────┐
-│  CREDENTIAL REGISTRY                                    STATUS: VERIFIED │
-├──────────────────────────────────────────┬──────────────┬───────────────┤
-│  CERTIFICATION                           │  ISSUER      │  YEAR         │
-├──────────────────────────────────────────┼──────────────┼───────────────┤
-│  Embedded Systems Specialization         │  Coursera    │  2024         │
-│  Industrial Automation Fundamentals      │  Siemens     │  2024         │
-│  PCB Design with KiCad                   │  Udemy       │  2023         │
-│  MATLAB & Simulink Onramp                │  MathWorks   │  2023         │
-│  IoT Development on AWS                  │  AWS         │  2023         │
-│  FreeRTOS Fundamentals                   │  FreeRTOS    │  2022         │
-└──────────────────────────────────────────┴──────────────┴───────────────┘
+┌──────────────────────────────────────────────────────────────────────────┐
+│  CREDENTIAL REGISTRY                                     STATUS: VERIFIED │
+├───────────────────────────────────────────┬──────────────┬───────────────┤
+│  CREDENTIAL                               │  ISSUER      │  YEAR         │
+├───────────────────────────────────────────┼──────────────┼───────────────┤
+│  Internship Certificate                   │  Prof.       │  2025/2026    │
+│  CubeSat ADCS Research — CRMN Sousse      │  Mounir      │               │
+│                                           │  Ben Ali     │               │
+├───────────────────────────────────────────┼──────────────┼───────────────┤
+│  Electronics & Automatic Engineering      │  École       │  In progress  │
+│  Engineering Degree (Diplôme d'Ingénieur) │  Polytechni- │               │
+│                                           │  que Sousse  │               │
+└───────────────────────────────────────────┴──────────────┴───────────────┘
 ```
 
 ---
@@ -277,14 +300,15 @@ control_arsenal = {
 ```
 $ ls ~/current_projects/
 
+  [IN PROGRESS]  cubesat_adcs/          → EKF + Complementary filter on STM32
+                                           Sensor fusion of MEMS for attitude det.
   [IN PROGRESS]  fpga_experiments/      → Xilinx Artix-7, learning VHDL
-  [IN PROGRESS]  edge_ai_tinyml/        → TensorFlow Lite on STM32, anomaly detection
-  [RESEARCH]     ros2_mobile_robot/     → ROS2 + Nav2 on Raspberry Pi 5
+  [RESEARCH]     edge_ai_tinyml/        → TensorFlow Lite on STM32, anomaly detection
+  [PLANNED]      ros2_mobile_robot/     → ROS2 + Nav2 on Raspberry Pi 5
   [PLANNED]      digital_twin_factory/  → Simulink + Factory I/O co-simulation
-  [PLANNED]      iso26262_study/        → Functional safety for automotive ECU
 
 $ cat /proc/learning_queue
-  > ROS2  >  FPGA / Verilog  >  Edge AI / TinyML  >  Functional Safety IEC 61508
+  > FPGA / Verilog  >  ROS2  >  Edge AI / TinyML  >  Functional Safety IEC 61508
 ```
 
 ---
@@ -324,11 +348,11 @@ $ cat /proc/learning_queue
 | 🤝 I'm available for | ✅ |
 |---|:---:|
 | Open-source embedded / hardware projects | ✅ |
-| Industrial IoT & Industry 4.0 consulting | ✅ |
-| Firmware code review & architecture advice | ✅ |
+| Industrial IoT & Industry 4.0 initiatives | ✅ |
+| Firmware code review & architecture discussions | ✅ |
 | PCB design collaboration | ✅ |
-| Technical writing & documentation | ✅ |
-| Research in control systems & signal processing | ✅ |
+| Aerospace / CubeSat / ADCS research | ✅ |
+| Internship & end-of-studies project opportunities | ✅ |
 
 </div>
 
@@ -338,6 +362,6 @@ $ cat /proc/learning_queue
 
 <img src="https://capsule-render.vercel.app/api?type=waving&color=0:0a0e1a,50:003045,100:0a0e1a&height=120&section=footer&text=⚡%20Powered%20by%20coffee%20%26%20curiosity%20⚡&fontSize=16&fontColor=00ffe0&fontAlignY=65" width="100%"/>
 
-<sub>Built with 🔧 by an engineer who solders by day and commits by night.</sub>
+<sub>Built with 🔧 by an engineer who solders by day and commits by night — Dhafer Knani · Sousse, Tunisia 🇹🇳</sub>
 
 </div>
