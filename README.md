@@ -1,55 +1,64 @@
 <!-- ================================================================ -->
-<!--   README — Dhafer Knani · Electronics & Automation Engineer     -->
-<!--   All URLs are ASCII-clean — no raw emoji inside src/href       -->
+<!--  README — Dhafer Knani · Electronics & Automation Engineer       -->
+<!--  IMPORTANT: Replace every YOUR_GITHUB_USERNAME with your exact  -->
+<!--  GitHub username (find it at github.com → your profile URL)     -->
 <!-- ================================================================ -->
 
 <div align="center">
 
-<!-- HERO BANNER — emoji-free URL -->
-<img src="https://capsule-render.vercel.app/api?type=waving&color=gradient&customColorList=12,20,25&height=280&section=header&text=Dhafer%20Knani&fontSize=72&fontColor=ffffff&fontAlignY=40&desc=Electronics%20%26%20Automation%20Engineer%20%7C%20Embedded%20%7C%20IoT%20%7C%20Space%20Tech&descSize=18&descAlignY=62&descColor=a0e4ff&animation=fadeIn" width="100%"/>
+<!-- ✅ HERO BANNER — plain ASCII only in URL, no emoji -->
+<img src="https://capsule-render.vercel.app/api?type=waving&color=0:0d1117,40:0a3d62,100:0d1117&height=260&section=header&text=Dhafer%20Knani&fontSize=70&fontColor=ffffff&fontAlignY=42&desc=Electronics%20%26%20Automation%20Engineer%20%7C%20Embedded%20%7C%20IoT%20%7C%20Space%20Tech&descSize=17&descAlignY=62&descColor=5dade2&animation=fadeIn" width="100%"/>
 
-<!-- TYPING SVG — all emoji replaced with URL-safe text + unicode escapes -->
+<!-- ✅ TYPING SVG — emoji encoded as %XX, no raw unicode -->
 <a href="https://git.io/typing-svg">
-  <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=500&size=16&pause=1200&color=00E5FF&center=true&vCenter=true&width=700&lines=CubeSat+ADCS+%7C+Kalman+Filter+%7C+Sensor+Fusion+%F0%9F%9B%B0;Embedded+C+%7C+STM32+%7C+FreeRTOS+%7C+Bare-Metal+%E2%9A%A1;PCB+Design+%7C+KiCad+%7C+Altium+Designer+%F0%9F%94%8C;PLC+%7C+SCADA+%7C+TIA+Portal+%7C+Industrial+IoT+%F0%9F%8F%AD;ESP32+%7C+LoRa+%7C+MQTT+%7C+Grafana+%7C+AWS+IoT+%F0%9F%93%A1;Ecole+Polytechnique+de+Sousse+%7C+Tunisia" alt="Typing SVG"/>
+  <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=600&size=16&pause=1000&color=5DADE2&center=true&vCenter=true&width=720&lines=CubeSat+ADCS+%7C+Kalman+Filter+%7C+MEMS+Sensor+Fusion;STM32+%7C+FreeRTOS+%7C+Bare-Metal+Firmware;KiCad+%7C+Altium+Designer+%7C+PCB+Design;Siemens+TIA+Portal+%7C+PLC+%7C+Industrial+IoT;ESP32+%7C+LoRa+%7C+MQTT+%7C+Grafana;Ecole+Polytechnique+de+Sousse+%7C+Tunisia" alt="Typing SVG"/>
 </a>
 
 <br/><br/>
 
-<!-- SOCIAL BADGES -->
+<!-- ✅ BADGES — using <a> tags for reliability -->
 <a href="https://www.linkedin.com/in/dhafer-knani-b363b72a6/">
-  <img alt="LinkedIn" src="https://img.shields.io/badge/LinkedIn-Dhafer%20Knani-0077B5?style=for-the-badge&logo=linkedin&logoColor=white"/>
+  <img src="https://img.shields.io/badge/LinkedIn-Dhafer%20Knani-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white"/>
 </a>
+&nbsp;
 <a href="mailto:dhaferknani02@gmail.com">
-  <img alt="Gmail" src="https://img.shields.io/badge/Gmail-dhaferknani02-EA4335?style=for-the-badge&logo=gmail&logoColor=white"/>
+  <img src="https://img.shields.io/badge/Gmail-dhaferknani02%40gmail.com-EA4335?style=for-the-badge&logo=gmail&logoColor=white"/>
 </a>
-<a href="https://github.com/DhaferKnani">
-  <img alt="GitHub" src="https://img.shields.io/badge/GitHub-DhaferKnani-181717?style=for-the-badge&logo=github&logoColor=white"/>
+&nbsp;
+<a href="https://github.com/Dhafer_knani">
+  <img src="https://img.shields.io/badge/GitHub-YOUR__GITHUB__USERNAME-181717?style=for-the-badge&logo=github&logoColor=white"/>
 </a>
 
 <br/><br/>
 
-<img src="https://komarev.com/ghpvc/?username=DhaferKnani&color=00e5ff&style=flat-square&label=Profile+Views" alt="profile views"/>
-<img src="https://img.shields.io/github/followers/DhaferKnani?style=flat-square&color=00e5ff&label=Followers" alt="followers"/>
+<!-- ✅ STATS COUNTERS — username must match exactly -->
+<img src="https://komarev.com/ghpvc/?username=YOUR_GITHUB_USERNAME&color=5dade2&style=flat-square&label=Profile+Views" alt="views"/>
+&nbsp;
+<img src="https://img.shields.io/github/followers/YOUR_GITHUB_USERNAME?style=flat-square&color=5dade2&label=Followers" alt="followers"/>
 
 </div>
 
 ---
 
-<img align="right" alt="Engineering GIF" width="340"
+<img align="right" alt="Coding GIF" width="360"
   src="https://user-images.githubusercontent.com/74038190/229223263-cf2e4b07-2615-4f87-9c38-e37600f8381a.gif"/>
 
-### Hey there! I'm Dhafer 👋
+### Hey there, I'm Dhafer! 👋
 
-I'm a **final-year Electronics & Automation Engineering student** at **École Polytechnique de Sousse 🇹🇳**, currently doing research on **CubeSat attitude determination** using MEMS sensor fusion at **CRMN Sousse**.
+I'm a **final-year Electronics & Automation Engineering student**
+at **École Polytechnique de Sousse, Tunisia 🇹🇳**,
+researching **CubeSat attitude determination** using MEMS sensor fusion
+under **Prof. Mounir Ben Ali** at **CRMN Sousse**.
 
-I love sitting at the intersection of **hardware, firmware, and control theory** — turning datasheets into working systems, one register at a time.
+I live at the intersection of **hardware, firmware & control theory** —
+turning datasheets into real working systems.
 
 - 🛰️ &nbsp; Researching **CubeSat ADCS** with EKF & Complementary Filters
-- 🔭 &nbsp; Working on **STM32 bare-metal** sensor fusion firmware
-- 🌱 &nbsp; Learning **FPGA design** (Xilinx Artix-7 / VHDL)
+- 🔭 &nbsp; Building **STM32 bare-metal** sensor fusion firmware
+- 🌱 &nbsp; Learning **FPGA design** — Xilinx Artix-7 & VHDL
 - 🤝 &nbsp; Open to **internships, research collabs & open-source hardware**
-- 💬 &nbsp; Ask me about **Embedded C, KiCad, PLC, Kalman Filters**
-- 📫 &nbsp; Reach me at **dhaferknani02@gmail.com**
+- 💬 &nbsp; Ask me about **Embedded C, KiCad, PLC, or Kalman Filters**
+- 📫 &nbsp; Reach me: **dhaferknani02@gmail.com**
 - ⚡ &nbsp; Fun fact: I debug hardware with a logic analyzer and cold coffee
 
 <br clear="right"/>
@@ -83,11 +92,11 @@ currently   : "Building a Kalman Filter that runs in orbit"
 | **Simulation** | MATLAB / Simulink — filter validation before hardware deployment |
 | **Supervisor** | Prof. Mounir Ben Ali |
 | **Institution** | CRMN — Centre de Recherche en Microelectronique et Nanotechnologie, Sousse |
-| **Status** | 🔄 In progress · `[████████░░]` · Publishing soon |
+| **Status** | 🔄 In progress — publishing soon on GitHub |
 
 </div>
 
-> **Pipeline:** Raw IMU → Allan variance bias removal → EKF predict/update → Quaternion attitude → Euler angles
+> **Full pipeline:** Raw IMU → Allan variance bias removal → EKF predict/update → Quaternion attitude → Euler angles
 
 ---
 
@@ -95,39 +104,55 @@ currently   : "Building a Kalman Filter that runs in orbit"
 
 <div align="center">
 
-**Core Languages**
-
 <a href="https://en.wikipedia.org/wiki/C_(programming_language)">
-  <img align="left" alt="C" height="42px" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/c/c-original.svg"/>
+  <img align="left" alt="C" height="45px" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/c/c-original.svg"/>
 </a>
 <a href="https://isocpp.org/">
-  <img align="left" alt="C++" height="42px" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/cplusplus/cplusplus-original.svg"/>
+  <img align="left" alt="C++" height="45px" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/cplusplus/cplusplus-original.svg"/>
 </a>
 <a href="https://www.python.org">
-  <img align="left" alt="Python" height="42px" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/python/python-original.svg"/>
+  <img align="left" alt="Python" height="45px" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/python/python-original.svg"/>
 </a>
 <a href="https://www.mathworks.com/products/matlab.html">
-  <img align="left" alt="MATLAB" height="42px" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/matlab/matlab-original.svg"/>
-</a>
-<a href="https://git-scm.com/">
-  <img align="left" alt="Git" height="42px" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/git/git-original.svg"/>
-</a>
-<a href="https://www.linux.org/">
-  <img align="left" alt="Linux" height="42px" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/linux/linux-original.svg"/>
-</a>
-<a href="https://code.visualstudio.com/">
-  <img align="left" alt="VSCode" height="42px" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/vscode/vscode-original.svg"/>
+  <img align="left" alt="MATLAB" height="45px" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/matlab/matlab-original.svg"/>
 </a>
 <a href="https://www.arduino.cc/">
-  <img align="left" alt="Arduino" height="42px" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/arduino/arduino-original.svg"/>
+  <img align="left" alt="Arduino" height="45px" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/arduino/arduino-original.svg"/>
 </a>
 <a href="https://www.raspberrypi.org/">
-  <img align="left" alt="Raspberry Pi" height="42px" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/raspberrypi/raspberrypi-original.svg"/>
+  <img align="left" alt="RPi" height="45px" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/raspberrypi/raspberrypi-original.svg"/>
+</a>
+<a href="https://git-scm.com/">
+  <img align="left" alt="Git" height="45px" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/git/git-original.svg"/>
+</a>
+<a href="https://www.linux.org/">
+  <img align="left" alt="Linux" height="45px" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/linux/linux-original.svg"/>
+</a>
+<a href="https://code.visualstudio.com/">
+  <img align="left" alt="VSCode" height="45px" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/vscode/vscode-original.svg"/>
 </a>
 
 </div>
 
 <br/><br/><br/>
+
+<div align="center">
+
+![C](https://img.shields.io/badge/C-00599C?style=flat-square&logo=c&logoColor=white)
+![C++](https://img.shields.io/badge/C++-00599C?style=flat-square&logo=cplusplus&logoColor=white)
+![Python](https://img.shields.io/badge/Python-3776AB?style=flat-square&logo=python&logoColor=white)
+![MATLAB](https://img.shields.io/badge/MATLAB-0076A8?style=flat-square&logo=mathworks&logoColor=white)
+![STM32](https://img.shields.io/badge/STM32-03234B?style=flat-square&logo=stmicroelectronics&logoColor=white)
+![ESP32](https://img.shields.io/badge/ESP32-E7352C?style=flat-square&logo=espressif&logoColor=white)
+![FreeRTOS](https://img.shields.io/badge/FreeRTOS-4EAA25?style=flat-square&logoColor=white)
+![KiCad](https://img.shields.io/badge/KiCad-314CB0?style=flat-square&logo=kicad&logoColor=white)
+![Altium](https://img.shields.io/badge/Altium%20Designer-A5915F?style=flat-square&logoColor=white)
+![Siemens](https://img.shields.io/badge/Siemens%20TIA-009999?style=flat-square&logo=siemens&logoColor=white)
+![MQTT](https://img.shields.io/badge/MQTT-660066?style=flat-square&logo=mqtt&logoColor=white)
+![Linux](https://img.shields.io/badge/Linux-FCC624?style=flat-square&logo=linux&logoColor=black)
+![Git](https://img.shields.io/badge/Git-F05032?style=flat-square&logo=git&logoColor=white)
+
+</div>
 
 ---
 
@@ -146,8 +171,7 @@ currently   : "Building a Kalman Filter that runs in orbit"
 | **Raspberry Pi** | Linux · Python · GPIO | Edge computing · HMI · vision |
 | **TI MSP430** | Code Composer Studio | Ultra-low power sensor nodes |
 
-**Firmware expertise:**
-`Bare-metal C` &nbsp;·&nbsp; `FreeRTOS` (tasks, queues, semaphores, SW timers) &nbsp;·&nbsp; `DMA / TIM / ADC / PWM` &nbsp;·&nbsp; `UART / SPI / I2C / CAN` &nbsp;·&nbsp; `Bootloader & OTA` &nbsp;·&nbsp; `Low-power optimization` &nbsp;·&nbsp; `Unity/Ceedling testing`
+`Bare-metal C` &nbsp;·&nbsp; `FreeRTOS` &nbsp;·&nbsp; `DMA / TIM / ADC / PWM` &nbsp;·&nbsp; `UART / SPI / I2C / CAN` &nbsp;·&nbsp; `Bootloader & OTA` &nbsp;·&nbsp; `Low-power optimization`
 
 </details>
 
@@ -155,28 +179,18 @@ currently   : "Building a Kalman Filter that runs in orbit"
 <summary><b>🔌 PCB Design & Hardware</b></summary>
 <br/>
 
-<div align="center">
-
-![KiCad](https://img.shields.io/badge/KiCad-314CB0?style=flat-square&logo=kicad&logoColor=white)
-![Altium](https://img.shields.io/badge/Altium%20Designer-A5915F?style=flat-square&logoColor=white)
-![LTspice](https://img.shields.io/badge/LTspice-900000?style=flat-square&logoColor=white)
-![Proteus](https://img.shields.io/badge/Proteus-1BA3DD?style=flat-square&logoColor=white)
-![FreeCAD](https://img.shields.io/badge/FreeCAD-0094CE?style=flat-square&logo=freecad&logoColor=white)
-
-</div>
-
 ```
-Concept → Schematic → Layout → DRC/ERC → Gerber → Fabrication → Bring-up → Test
+Concept  -->  Schematic  -->  Layout  -->  DRC/ERC  -->  Gerber  -->  Fabrication  -->  Bring-up
 ```
 
 | Domain | Details |
 |---|---|
 | **Analog design** | Op-amp circuits · active/passive filters · ADC/DAC signal conditioning |
-| **Power electronics** | Buck/Boost converters · LDO regulators · motor gate drivers |
-| **RF & Antenna** | Impedance matching · SMA/U.FL · controlled-impedance traces (50 Ohm) |
+| **Power electronics** | Buck/Boost · LDO regulators · motor gate drivers (H-bridge, MOSFET) |
+| **RF & Antenna** | Impedance matching · SMA/U.FL · 50 Ohm controlled-impedance traces |
 | **Signal integrity** | Length matching · via stitching · GND pour · layer stack-up |
 | **EMC / EMI** | TVS protection · ferrite beads · decoupling strategy · ESD guard rings |
-| **Layout complexity** | Up to 6 layers · 0402/QFP/QFN/BGA · custom footprint libraries |
+| **Complexity** | Up to 6 layers · 0402/QFP/QFN/BGA · custom footprint libraries |
 
 </details>
 
@@ -185,13 +199,13 @@ Concept → Schematic → Layout → DRC/ERC → Gerber → Fabrication → Brin
 <br/>
 
 ```
-[SENSOR] ---> [MCU / SBC] ---> [PROTOCOL] ---> [BROKER] ---> [CLOUD] ---> [DASHBOARD]
-  MEMS           STM32             MQTT          Mosquitto    AWS IoT       Grafana
-  Temp/Hum       ESP32             HTTP/REST      Node-RED     Azure IoT     Home Asst.
-  Gas/Light      Raspberry Pi      WebSocket      EMQX         InfluxDB      Custom UI
+[SENSOR] --> [MCU/SBC]  --> [PROTOCOL]  --> [BROKER]   --> [CLOUD]    --> [DASHBOARD]
+ MEMS         STM32          MQTT          Mosquitto     AWS IoT       Grafana
+ Temp/Hum     ESP32          HTTP/REST     Node-RED      Azure IoT     Home Assistant
+ Gas/Light    Raspberry Pi   WebSocket     EMQX          InfluxDB      Custom UI
 ```
 
-| Protocol | Range | Best for |
+| Protocol | Range | Best Use |
 |---|---|---|
 | **LoRa / LoRaWAN** | 2–15 km | Remote low-power sensor networks |
 | **WiFi 802.11 b/g/n** | ~100 m | High-bandwidth IoT nodes |
@@ -206,23 +220,15 @@ Concept → Schematic → Layout → DRC/ERC → Gerber → Fabrication → Brin
 <summary><b>🏭 Industrial Automation & PLC</b></summary>
 <br/>
 
-<div align="center">
-
-![Siemens](https://img.shields.io/badge/Siemens-009999?style=flat-square&logo=siemens&logoColor=white)
-![Allen Bradley](https://img.shields.io/badge/Allen--Bradley-FF0000?style=flat-square&logoColor=white)
-![Schneider](https://img.shields.io/badge/Schneider%20Electric-3DCD58?style=flat-square&logo=schneiderelectric&logoColor=white)
-
-</div>
-
 | Vendor | Hardware | Software |
 |---|---|---|
 | **Siemens** | S7-300 / S7-1200 / S7-1500 | TIA Portal · WinCC · PLCSIM |
 | **Allen-Bradley** | CompactLogix / MicroLogix | Studio 5000 · FactoryTalk |
 | **Schneider Electric** | Modicon M340 / M580 | Unity Pro · EcoStruxure |
 
-**IEC 61131-3:** `Ladder (LD)` &nbsp;·&nbsp; `Function Block (FBD)` &nbsp;·&nbsp; `Structured Text (ST)` &nbsp;·&nbsp; `Statement List (STL)` &nbsp;·&nbsp; `Sequential Function Chart (SFC)`
+**IEC 61131-3:** `Ladder (LD)` &nbsp;·&nbsp; `FBD` &nbsp;·&nbsp; `Structured Text (ST)` &nbsp;·&nbsp; `STL` &nbsp;·&nbsp; `SFC`
 
-**Fieldbus:** `PROFIBUS` &nbsp;·&nbsp; `PROFINET` &nbsp;·&nbsp; `Modbus RTU/TCP` &nbsp;·&nbsp; `EtherNet/IP` &nbsp;·&nbsp; `OPC-UA` &nbsp;·&nbsp; `AS-Interface`
+**Fieldbus:** `PROFIBUS` &nbsp;·&nbsp; `PROFINET` &nbsp;·&nbsp; `Modbus RTU/TCP` &nbsp;·&nbsp; `EtherNet/IP` &nbsp;·&nbsp; `OPC-UA`
 
 </details>
 
@@ -235,16 +241,12 @@ control_toolkit = {
     "classical"  : ["PID (Ziegler-Nichols, IMC, Cohen-Coon)", "Bode/Nyquist", "Root locus"],
     "modern"     : ["State-space", "LQR / pole placement", "Luenberger observer"],
     "estimation" : ["Extended Kalman Filter (EKF)", "Complementary Filter",
-                    "AHRS — Madgwick / Mahony", "Allan variance & bias estimation"],
+                    "AHRS (Madgwick / Mahony)", "Allan variance & bias estimation"],
     "digital_sp" : ["IIR / FIR filter design", "FFT & spectral analysis",
                     "Discretization: ZOH, Tustin/bilinear"],
     "simulation" : ["MATLAB / Simulink", "Hardware-in-the-Loop (HIL)", "co-simulation"],
 }
 ```
-
-![MATLAB](https://img.shields.io/badge/MATLAB-0076A8?style=flat-square&logo=mathworks&logoColor=white)
-![Simulink](https://img.shields.io/badge/Simulink-0076A8?style=flat-square&logo=mathworks&logoColor=white)
-![SciPy](https://img.shields.io/badge/SciPy%20%7C%20NumPy%20%7C%20Matplotlib-3776AB?style=flat-square&logo=python&logoColor=white)
 
 </details>
 
@@ -252,24 +254,26 @@ control_toolkit = {
 
 ## 📊 GitHub Stats
 
+> ⚠️ **Replace `YOUR_GITHUB_USERNAME` below with your exact GitHub username before publishing**
+
 <div align="center">
 
-<img height="170" src="https://github-readme-stats.vercel.app/api?username=DhaferKnani&show_icons=true&theme=tokyonight&bg_color=0d1117&border_color=00e5ff&title_color=00e5ff&icon_color=79c0ff&text_color=c9d1d9&count_private=true&include_all_commits=true"/>
+<img height="170" src="https://github-readme-stats.vercel.app/api?username=YOUR_GITHUB_USERNAME&show_icons=true&theme=tokyonight&bg_color=0d1117&border_color=5dade2&title_color=5dade2&icon_color=5dade2&text_color=c9d1d9&count_private=true&include_all_commits=true&hide_border=false"/>
 &nbsp;&nbsp;
-<img height="170" src="https://github-readme-stats.vercel.app/api/top-langs/?username=DhaferKnani&layout=compact&theme=tokyonight&bg_color=0d1117&border_color=00e5ff&title_color=00e5ff&text_color=c9d1d9&langs_count=8"/>
+<img height="170" src="https://github-readme-stats.vercel.app/api/top-langs/?username=YOUR_GITHUB_USERNAME&layout=compact&theme=tokyonight&bg_color=0d1117&border_color=5dade2&title_color=5dade2&text_color=c9d1d9&langs_count=8"/>
 
 <br/><br/>
 
-<img src="https://streak-stats.demolab.com?user=DhaferKnani&theme=tokyonight&background=0d1117&border=00e5ff&stroke=00e5ff&ring=00e5ff&fire=ff9900&currStreakLabel=00e5ff&sideLabels=79c0ff&currStreakNum=ffffff&sideNums=ffffff&dates=555e7a" alt="GitHub Streak"/>
+<img src="https://streak-stats.demolab.com?user=YOUR_GITHUB_USERNAME&theme=tokyonight&background=0d1117&border=5dade2&stroke=5dade2&ring=5dade2&fire=ff9900&currStreakLabel=5dade2&sideLabels=79c0ff&currStreakNum=ffffff&sideNums=ffffff&dates=555e7a" alt="GitHub Streak"/>
 
 <br/><br/>
 
-<img src="https://github-readme-activity-graph.vercel.app/graph?username=DhaferKnani&bg_color=0d1117&color=00e5ff&line=79c0ff&point=00e5ff&area_color=0d2137&area=true&border_color=00e5ff&custom_title=Contribution+Activity" width="96%"/>
+<img src="https://github-readme-activity-graph.vercel.app/graph?username=YOUR_GITHUB_USERNAME&bg_color=0d1117&color=5dade2&line=79c0ff&point=5dade2&area_color=0a3d62&area=true&border_color=5dade2&custom_title=Contribution+Activity" width="96%"/>
 
 <br/>
 
 <a href="https://github.com/ryo-ma/github-profile-trophy">
-  <img src="https://github-profile-trophy.vercel.app/?username=DhaferKnani&theme=tokyonight&column=7&margin-w=8&no-bg=true" alt="trophies"/>
+  <img src="https://github-profile-trophy.vercel.app/?username=YOUR_GITHUB_USERNAME&theme=tokyonight&column=7&margin-w=8&no-bg=true" alt="trophies"/>
 </a>
 
 </div>
@@ -278,26 +282,24 @@ control_toolkit = {
 
 ## 📜 Credentials
 
-| Medal | Credential | Institution | Year |
+| | Credential | Institution | Year |
 |:---:|---|---|---|
 | 🏅 | **Internship Certificate** — CubeSat ADCS Research | CRMN Sousse · Prof. Mounir Ben Ali | 2025/2026 |
 | 🎓 | **Diplome d'Ingenieur** — Electronics & Automatic Engineering | Ecole Polytechnique de Sousse | In progress |
 
 ---
 
-## 🔭 What's Next
+## 🔭 Current Projects & Roadmap
 
-```bash
-$ cat ~/roadmap.txt
+| Status | Project | Description |
+|:---:|---|---|
+| 🔄 90% | **cubesat_adcs** | EKF + Complementary filter on STM32 — publishing soon |
+| 🔄 40% | **fpga_learning** | Xilinx Artix-7 · VHDL · digital design fundamentals |
+| 🔄 30% | **tinyml_stm32** | TensorFlow Lite · anomaly detection on MCU |
+| 📋 20% | **ros2_robot** | ROS2 + Nav2 · autonomous mobile platform |
+| 📋 10% | **digital_twin** | Simulink + Factory I/O · virtual commissioning |
 
-  [████████░░]  cubesat_adcs/       --> Finalizing EKF on STM32, publishing soon
-  [████░░░░░░]  fpga_learning/      --> Xilinx Artix-7, VHDL, digital design
-  [███░░░░░░░]  tinyml_stm32/       --> TensorFlow Lite, anomaly detection on MCU
-  [██░░░░░░░░]  ros2_robot/         --> ROS2 + Nav2, autonomous mobile platform
-  [█░░░░░░░░░]  digital_twin/       --> Simulink + Factory I/O, virtual commissioning
-
-  Learning queue --> FPGA  |  ROS2  |  Edge AI / TinyML  |  Functional Safety IEC 61508
-```
+**Learning queue →** `FPGA / Verilog` &nbsp;·&nbsp; `ROS2` &nbsp;·&nbsp; `Edge AI / TinyML` &nbsp;·&nbsp; `Functional Safety IEC 61508`
 
 ---
 
@@ -305,18 +307,18 @@ $ cat ~/roadmap.txt
 
 <div align="center">
 
-I'm actively looking for **internship opportunities**, **research collaborations**, and **open-source projects** in:
+Looking for **internship opportunities**, **research collaborations**, and **open-source projects** in:
 
 `Embedded Systems` &nbsp;·&nbsp; `CubeSat / Aerospace` &nbsp;·&nbsp; `Industrial IoT` &nbsp;·&nbsp; `PCB Hardware` &nbsp;·&nbsp; `Control Systems`
 
 <br/>
 
 <a href="https://www.linkedin.com/in/dhafer-knani-b363b72a6/">
-  <img src="https://img.shields.io/badge/Connect%20on%20LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn"/>
+  <img src="https://img.shields.io/badge/Connect%20on%20LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white"/>
 </a>
 &nbsp;
 <a href="mailto:dhaferknani02@gmail.com">
-  <img src="https://img.shields.io/badge/Send%20an%20Email-EA4335?style=for-the-badge&logo=gmail&logoColor=white" alt="Email"/>
+  <img src="https://img.shields.io/badge/Send%20an%20Email-EA4335?style=for-the-badge&logo=gmail&logoColor=white"/>
 </a>
 
 </div>
@@ -325,9 +327,9 @@ I'm actively looking for **internship opportunities**, **research collaborations
 
 <div align="center">
 
-<!-- FOOTER BANNER — emoji-free URL -->
-<img src="https://capsule-render.vercel.app/api?type=waving&color=gradient&customColorList=12,20,25&height=130&section=footer&text=Soldering%20by%20day%20%C2%B7%20Committing%20by%20night&fontSize=16&fontColor=a0e4ff&fontAlignY=65" width="100%"/>
+<!-- ✅ FOOTER — plain ASCII only, no emoji in URL -->
+<img src="https://capsule-render.vercel.app/api?type=waving&color=0:0d1117,40:0a3d62,100:0d1117&height=120&section=footer&text=Soldering%20by%20day%20%E2%80%A2%20Committing%20by%20night&fontSize=16&fontColor=5dade2&fontAlignY=65" width="100%"/>
 
-<sub><b>Dhafer Knani</b> &nbsp;·&nbsp; Electronics & Automation Engineer &nbsp;·&nbsp; Sousse, Tunisia</sub>
+<sub><b>Dhafer Knani</b> &nbsp;·&nbsp; Electronics & Automation Engineer &nbsp;·&nbsp; Sousse, Tunisia 🇹🇳</sub>
 
 </div>
