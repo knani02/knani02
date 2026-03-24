@@ -105,53 +105,66 @@ currently   : "Building a Kalman Filter that runs in orbit"
 
 <div align="center">
 
+### Programming Languages & Scripting
 <a href="https://en.wikipedia.org/wiki/C_(programming_language)">
-  <img align="left" alt="C" height="45px" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/c/c-original.svg"/>
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/c/c-original.svg" height="45" alt="C"/>
 </a>
 <a href="https://isocpp.org/">
-  <img align="left" alt="C++" height="45px" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/cplusplus/cplusplus-original.svg"/>
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/cplusplus/cplusplus-original.svg" height="45" alt="C++"/>
 </a>
 <a href="https://www.python.org">
-  <img align="left" alt="Python" height="45px" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/python/python-original.svg"/>
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/python/python-original.svg" height="45" alt="Python"/>
 </a>
 <a href="https://www.mathworks.com/products/matlab.html">
-  <img align="left" alt="MATLAB" height="45px" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/matlab/matlab-original.svg"/>
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/matlab/matlab-original.svg" height="45" alt="MATLAB"/>
+</a>
+<a href="https://www.vhdl.org/">
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/vhdl/vhdl-original.svg" height="45" alt="VHDL"/>
+</a>
+
+<br/><br/>
+
+### Microcontrollers & Platforms
+<a href="https://www.st.com/en/microcontrollers-microprocessors/stm32.html">
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/stm32/stm32-original.svg" height="45" alt="STM32"/> 
+</a>
+<a href="https://www.espressif.com/en/products/socs/esp32">
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/espressif/espressif-original.svg" height="45" alt="ESP32"/>
 </a>
 <a href="https://www.arduino.cc/">
-  <img align="left" alt="Arduino" height="45px" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/arduino/arduino-original.svg"/>
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/arduino/arduino-original.svg" height="45" alt="Arduino"/>
 </a>
-<a href="https://www.raspberrypi.org/">
-  <img align="left" alt="RPi" height="45px" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/raspberrypi/raspberrypi-original.svg"/>
+<a href="https://www.raspberrypi.com/">
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/raspberrypi/raspberrypi-original.svg" height="45" alt="Raspberry Pi"/>
+</a>
+
+<br/><br/>
+
+### Tools & Technologies
+<a href="https://www.kicad.org/">
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/kicad/kicad-original.svg" height="45" alt="KiCad"/>
+</a>
+<a href="https://www.altium.com/">
+  <img src="https://img.shields.io/badge/Altium%20Designer-A5915F?style=flat-square&logo=altiumdesigner&logoColor=white" height="45" alt="Altium Designer"/>
+</a>
+<a href="https://www.siemens.com/">
+  <img src="https://img.shields.io/badge/Siemens%20TIA%20Portal-009999?style=flat-square&logo=siemens&logoColor=white" height="45" alt="Siemens TIA Portal"/>
+</a>
+<a href="https://www.freertos.org/">
+  <img src="https://img.shields.io/badge/FreeRTOS-4EAA25?style=flat-square&logo=freertos&logoColor=white" height="45" alt="FreeRTOS"/>
+</a>
+<a href="https://mqtt.org/">
+  <img src="https://img.shields.io/badge/MQTT-660066?style=flat-square&logo=mqtt&logoColor=white" height="45" alt="MQTT"/>
+</a>
+<a href="https://grafana.com/">
+  <img src="https://img.shields.io/badge/Grafana-F46800?style=flat-square&logo=grafana&logoColor=white" height="45" alt="Grafana"/>
 </a>
 <a href="https://git-scm.com/">
-  <img align="left" alt="Git" height="45px" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/git/git-original.svg"/>
-</a>
-<a href="https://www.linux.org/">
-  <img align="left" alt="Linux" height="45px" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/linux/linux-original.svg"/>
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/git/git-original.svg" height="45" alt="Git"/>
 </a>
 <a href="https://code.visualstudio.com/">
-  <img align="left" alt="VSCode" height="45px" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/vscode/vscode-original.svg"/>
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/vscode/vscode-original.svg" height="45" alt="VS Code"/>
 </a>
-
-</div>
-
-<br/><br/><br/>
-
-<div align="center">
-
-![C](https://img.shields.io/badge/C-00599C?style=flat-square&logo=c&logoColor=white)
-![C++](https://img.shields.io/badge/C++-00599C?style=flat-square&logo=cplusplus&logoColor=white)
-![Python](https://img.shields.io/badge/Python-3776AB?style=flat-square&logo=python&logoColor=white)
-![MATLAB](https://img.shields.io/badge/MATLAB-0076A8?style=flat-square&logo=mathworks&logoColor=white)
-![STM32](https://img.shields.io/badge/STM32-03234B?style=flat-square&logo=stmicroelectronics&logoColor=white)
-![ESP32](https://img.shields.io/badge/ESP32-E7352C?style=flat-square&logo=espressif&logoColor=white)
-![FreeRTOS](https://img.shields.io/badge/FreeRTOS-4EAA25?style=flat-square&logoColor=white)
-![KiCad](https://img.shields.io/badge/KiCad-314CB0?style=flat-square&logo=kicad&logoColor=white)
-![Altium](https://img.shields.io/badge/Altium%20Designer-A5915F?style=flat-square&logoColor=white)
-![Siemens](https://img.shields.io/badge/Siemens%20TIA-009999?style=flat-square&logo=siemens&logoColor=white)
-![MQTT](https://img.shields.io/badge/MQTT-660066?style=flat-square&logo=mqtt&logoColor=white)
-![Linux](https://img.shields.io/badge/Linux-FCC624?style=flat-square&logo=linux&logoColor=black)
-![Git](https://img.shields.io/badge/Git-F05032?style=flat-square&logo=git&logoColor=white)
 
 </div>
 
