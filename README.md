@@ -1,6 +1,6 @@
 <!-- ================================================================ -->
 <!--  README — Dhafer Knani · Electronics & Automation Engineer       -->
-<!--  IMPORTANT: Replace every knani02 with your exact  -->
+<!--  IMPORTANT: Replace every dhaferknani with your exact  -->
 <!--  GitHub username (find it at github.com → your profile URL)     -->
 <!-- ================================================================ -->
 
@@ -21,20 +21,20 @@
   <img src="https://img.shields.io/badge/LinkedIn-Dhafer%20Knani-0A66C2?style=for-the-badge&amp;logo=linkedin&amp;logoColor=white"/>
 </a>
 &nbsp;
-<a href="mailto:dhaferknani02@gmail.com">
-  <img src="https://img.shields.io/badge/Gmail-dhaferknani02%40gmail.com-EA4335?style=for-the-badge&amp;logo=gmail&amp;logoColor=white"/>
+<a href="mailto:dhaferdhaferknani@gmail.com">
+  <img src="https://img.shields.io/badge/Gmail-dhaferdhaferknani%40gmail.com-EA4335?style=for-the-badge&amp;logo=gmail&amp;logoColor=white"/>
 </a>
 &nbsp;
-<a href="https://github.com/knani02">
-  <img src="https://img.shields.io/badge/GitHub-knani02-181717?style=for-the-badge&amp;logo=github&amp;logoColor=white"/>
+<a href="https://github.com/dhaferknani">
+  <img src="https://img.shields.io/badge/GitHub-dhaferknani-181717?style=for-the-badge&amp;logo=github&amp;logoColor=white"/>
 </a>
 
 <br/><br/>
 
 <!-- ✅ STATS COUNTERS — username must match exactly -->
-<img src="https://komarev.com/ghpvc/?username=knani02&amp;color=5dade2&amp;style=flat-square&amp;label=Profile+Views" alt="views"/>
+<img src="https://komarev.com/ghpvc/?username=dhaferknani&amp;color=5dade2&amp;style=flat-square&amp;label=Profile+Views" alt="views"/>
 &nbsp;
-<img src="https://img.shields.io/github/followers/knani02?style=flat-square&amp;color=5dade2&amp;label=Followers" alt="followers"/>
+<img src="https://img.shields.io/github/followers/dhaferknani?style=flat-square&amp;color=5dade2&amp;label=Followers" alt="followers"/>
 
 </div>
 
@@ -58,7 +58,7 @@ turning datasheets into real working systems.
 - 🌱 &nbsp; Learning **FPGA design** — Xilinx Artix-7 & VHDL
 - 🤝 &nbsp; Open to **internships, research collabs & open-source hardware**
 - 💬 &nbsp; Ask me about **Embedded C, KiCad, PLC, or Kalman Filters**
-- 📫 &nbsp; Reach me: **dhaferknani02@gmail.com**
+- 📫 &nbsp; Reach me: **dhaferdhaferknani@gmail.com**
 - ⚡ &nbsp; Fun fact: I debug hardware with a logic analyzer and cold coffee
 
 <br clear="right"/>
@@ -254,26 +254,26 @@ control_toolkit = {
 
 ## 📊 GitHub Stats
 
-> ⚠️ **Replace `knani02` below with your exact GitHub username before publishing**
+> ⚠️ **Replace `dhaferknani` below with your exact GitHub username before publishing**
 
 <div align="center">
 
-<img height="170" src="https://github-readme-stats.vercel.app/api?username=knani02&amp;show_icons=true&amp;theme=tokyonight&amp;bg_color=0d1117&amp;border_color=5dade2&amp;title_color=5dade2&amp;icon_color=5dade2&amp;text_color=c9d1d9&amp;count_private=true&amp;include_all_commits=true&amp;hide_border=false"/>
+<img height="170" src="https://github-readme-stats.vercel.app/api?username=dhaferknani&amp;show_icons=true&amp;theme=tokyonight&amp;bg_color=0d1117&amp;border_color=5dade2&amp;title_color=5dade2&amp;icon_color=5dade2&amp;text_color=c9d1d9&amp;count_private=true&amp;include_all_commits=true&amp;hide_border=false"/>
 &nbsp;&nbsp;
-<img height="170" src="https://github-readme-stats.vercel.app/api/top-langs/?username=knani02&amp;layout=compact&amp;theme=tokyonight&amp;bg_color=0d1117&amp;border_color=5dade2&amp;title_color=5dade2&amp;text_color=c9d1d9&amp;langs_count=8"/>
+<img height="170" src="https://github-readme-stats.vercel.app/api/top-langs/?username=dhaferknani&amp;layout=compact&amp;theme=tokyonight&amp;bg_color=0d1117&amp;border_color=5dade2&amp;title_color=5dade2&amp;text_color=c9d1d9&amp;langs_count=8"/>
 
 <br/><br/>
 
-<img src="https://streak-stats.demolab.com?user=knani02&amp;theme=tokyonight&amp;background=0d1117&amp;border=5dade2&amp;stroke=5dade2&amp;ring=5dade2&amp;fire=ff9900&amp;currStreakLabel=5dade2&amp;sideLabels=79c0ff&amp;currStreakNum=ffffff&amp;sideNums=ffffff&amp;dates=555e7a" alt="GitHub Streak"/>
+<img src="https://streak-stats.demolab.com?user=dhaferknani&amp;theme=tokyonight&amp;background=0d1117&amp;border=5dade2&amp;stroke=5dade2&amp;ring=5dade2&amp;fire=ff9900&amp;currStreakLabel=5dade2&amp;sideLabels=79c0ff&amp;currStreakNum=ffffff&amp;sideNums=ffffff&amp;dates=555e7a" alt="GitHub Streak"/>
 
 <br/><br/>
 
-<img src="https://github-readme-activity-graph.vercel.app/graph?username=knani02&amp;bg_color=0d1117&amp;color=5dade2&amp;line=79c0ff&amp;point=5dade2&amp;area_color=0a3d62&amp;area=true&amp;border_color=5dade2&amp;custom_title=Contribution+Activity" width="96%"/>
+<img src="https://github-readme-activity-graph.vercel.app/graph?username=dhaferknani&amp;bg_color=0d1117&amp;color=5dade2&amp;line=79c0ff&amp;point=5dade2&amp;area_color=0a3d62&amp;area=true&amp;border_color=5dade2&amp;custom_title=Contribution+Activity" width="96%"/>
 
 <br/>
 
 <a href="https://github.com/ryo-ma/github-profile-trophy">
-  <img src="https://github-profile-trophy.vercel.app/?username=knani02&amp;theme=tokyonight&amp;column=7&amp;margin-w=8&amp;no-bg=true" alt="trophies"/>
+  <img src="https://github-profile-trophy.vercel.app/?username=dhaferknani&amp;theme=tokyonight&amp;column=7&amp;margin-w=8&amp;no-bg=true" alt="trophies"/>
 </a>
 
 </div>
@@ -317,7 +317,7 @@ Looking for **internship opportunities**, **research collaborations**, and **ope
   <img src="https://img.shields.io/badge/Connect%20on%20LinkedIn-0A66C2?style=for-the-badge&amp;logo=linkedin&amp;logoColor=white"/>
 </a>
 &nbsp;
-<a href="mailto:dhaferknani02@gmail.com">
+<a href="mailto:dhaferdhaferknani@gmail.com">
   <img src="https://img.shields.io/badge/Send%20an%20Email-EA4335?style=for-the-badge&amp;logo=gmail&amp;logoColor=white"/>
 </a>
 
