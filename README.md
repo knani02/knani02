@@ -7,7 +7,8 @@
 <div align="center">
 
 <!-- ✅ HERO BANNER — plain ASCII only in URL, no emoji -->
-<img src="https://capsule-render.vercel.app/api?type=waving&color=0:0d1117,40:0a3d62,100:0d1117&height=260&section=header&text=Dhafer%20Knani&fontSize=70&fontColor=ffffff&fontAlignY=42&desc=Electronics%20%26%20Automation%20Engineer%20%7C%20Embedded%20%7C%20IoT%20%7C%20Space%20Tech&descSize=17&descAlignY=62&descColor=5dade2&animation=fadeIn" width="100%"/>
+<!-- ✅ HERO BANNER — FIXED -->
+<img src="https://capsule-render.vercel.app/api?type=waving&color=0:0d1117,40:0a3d62,100:0d1117&height=260&section=header&text=Dhafer%20Knani&fontSize=70&fontColor=ffffff&fontAlignY=42&desc=Electronics%20and%20Automation%20Engineer%20%7C%20Embedded%20%7C%20IoT%20%7C%20Space%20Tech&descSize=17&descAlignY=62&descColor=5dade2&animation=fadeIn" width="100%"/>
 
 <!-- ✅ TYPING SVG — emoji encoded as %XX, no raw unicode -->
 <a href="https://git.io/typing-svg">
