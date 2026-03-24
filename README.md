@@ -7,34 +7,34 @@
 <div align="center">
 
 <!-- ✅ HERO BANNER — plain ASCII only in URL, no emoji -->
-<img src="https://capsule-render.vercel.app/api?type=waving&amp;color=0:0d1117,40:0a3d62,100:0d1117&amp;height=260&amp;section=header&amp;text=Dhafer%20Knani&amp;fontSize=70&amp;fontColor=ffffff&amp;fontAlignY=42&amp;desc=Electronics%20%26%20Automation%20Engineer%20%7C%20Embedded%20%7C%20IoT%20%7C%20Space%20Tech&amp;descSize=17&amp;descAlignY=62&amp;descColor=5dade2&amp;animation=fadeIn" width="100%"/>
+<img src="https://capsule-render.vercel.app/api?type=waving&color=0:0d1117,40:0a3d62,100:0d1117&height=260&section=header&text=Dhafer%20Knani&fontSize=70&fontColor=ffffff&fontAlignY=42&desc=Electronics%20%26%20Automation%20Engineer%20%7C%20Embedded%20%7C%20IoT%20%7C%20Space%20Tech&descSize=17&descAlignY=62&descColor=5dade2&animation=fadeIn" width="100%"/>
 
 <!-- ✅ TYPING SVG — emoji encoded as %XX, no raw unicode -->
 <a href="https://git.io/typing-svg">
-  <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&amp;weight=600&amp;size=16&amp;pause=1000&amp;color=5DADE2&amp;center=true&amp;vCenter=true&amp;width=720&amp;lines=CubeSat+ADCS+%7C+Kalman+Filter+%7C+MEMS+Sensor+Fusion;STM32+%7C+FreeRTOS+%7C+Bare-Metal+Firmware;KiCad+%7C+Altium+Designer+%7C+PCB+Design;Siemens+TIA+Portal+%7C+PLC+%7C+Industrial+IoT;ESP32+%7C+LoRa+%7C+MQTT+%7C+Grafana;Ecole+Polytechnique+de+Sousse+%7C+Tunisia" alt="Typing SVG"/>
+  <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=600&size=16&pause=1000&color=5DADE2&center=true&vCenter=true&width=720&lines=CubeSat+ADCS+%7C+Kalman+Filter+%7C+MEMS+Sensor+Fusion;STM32+%7C+FreeRTOS+%7C+Bare-Metal+Firmware;KiCad+%7C+Altium+Designer+%7C+PCB+Design;Siemens+TIA+Portal+%7C+PLC+%7C+Industrial+IoT;ESP32+%7C+LoRa+%7C+MQTT+%7C+Grafana;Ecole+Polytechnique+de+Sousse+%7C+Tunisia" alt="Typing SVG"/>
 </a>
 
 <br/><br/>
 
 <!-- ✅ BADGES — using <a> tags for reliability -->
 <a href="https://www.linkedin.com/in/dhafer-knani-b363b72a6/">
-  <img src="https://img.shields.io/badge/LinkedIn-Dhafer%20Knani-0A66C2?style=for-the-badge&amp;logo=linkedin&amp;logoColor=white"/>
+  <img src="https://img.shields.io/badge/LinkedIn-Dhafer%20Knani-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white"/>
 </a>
 &nbsp;
 <a href="mailto:dhaferdhaferknani@gmail.com">
-  <img src="https://img.shields.io/badge/Gmail-dhaferdhaferknani%40gmail.com-EA4335?style=for-the-badge&amp;logo=gmail&amp;logoColor=white"/>
+  <img src="https://img.shields.io/badge/Gmail-dhaferknani02%40gmail.com-EA4335?style=for-the-badge&logo=gmail&logoColor=white"/>
 </a>
 &nbsp;
 <a href="https://github.com/dhaferknani">
-  <img src="https://img.shields.io/badge/GitHub-dhaferknani-181717?style=for-the-badge&amp;logo=github&amp;logoColor=white"/>
+  <img src="https://img.shields.io/badge/GitHub-dhaferknani-181717?style=for-the-badge&logo=github&logoColor=white"/>
 </a>
 
 <br/><br/>
 
 <!-- ✅ STATS COUNTERS — username must match exactly -->
-<img src="https://komarev.com/ghpvc/?username=dhaferknani&amp;color=5dade2&amp;style=flat-square&amp;label=Profile+Views" alt="views"/>
+<img src="https://komarev.com/ghpvc/?username=dhaferknani&color=5dade2&style=flat-square&label=Profile+Views" alt="views"/>
 &nbsp;
-<img src="https://img.shields.io/github/followers/dhaferknani?style=flat-square&amp;color=5dade2&amp;label=Followers" alt="followers"/>
+<img src="https://img.shields.io/github/followers/dhaferknani?style=flat-square&color=5dade2&label=Followers" alt="followers"/>
 
 </div>
 
@@ -159,7 +159,7 @@ currently   : "Building a Kalman Filter that runs in orbit"
 ## 🧠 Technical Stack
 
 <details open>
-<summary><b>⚙️ Embedded Systems &amp; Firmware</b></summary>
+<summary><b>⚙️ Embedded Systems & Firmware</b></summary>
 <br/>
 
 | MCU Platform | Toolchain | Applications |
@@ -176,7 +176,7 @@ currently   : "Building a Kalman Filter that runs in orbit"
 </details>
 
 <details open>
-<summary><b>🔌 PCB Design &amp; Hardware</b></summary>
+<summary><b>🔌 PCB Design & Hardware</b></summary>
 <br/>
 
 ```
@@ -195,7 +195,7 @@ Concept  -->  Schematic  -->  Layout  -->  DRC/ERC  -->  Gerber  -->  Fabricatio
 </details>
 
 <details open>
-<summary><b>🌐 IoT &amp; Wireless Systems</b></summary>
+<summary><b>🌐 IoT & Wireless Systems</b></summary>
 <br/>
 
 ```
@@ -217,7 +217,7 @@ Concept  -->  Schematic  -->  Layout  -->  DRC/ERC  -->  Gerber  -->  Fabricatio
 </details>
 
 <details open>
-<summary><b>🏭 Industrial Automation &amp; PLC</b></summary>
+<summary><b>🏭 Industrial Automation & PLC</b></summary>
 <br/>
 
 | Vendor | Hardware | Software |
@@ -233,7 +233,7 @@ Concept  -->  Schematic  -->  Layout  -->  DRC/ERC  -->  Gerber  -->  Fabricatio
 </details>
 
 <details>
-<summary><b>🧮 Control Theory &amp; Signal Processing</b></summary>
+<summary><b>🧮 Control Theory & Signal Processing</b></summary>
 <br/>
 
 ```python
@@ -258,22 +258,22 @@ control_toolkit = {
 
 <div align="center">
 
-<img height="170" src="https://github-readme-stats.vercel.app/api?username=dhaferknani&amp;show_icons=true&amp;theme=tokyonight&amp;bg_color=0d1117&amp;border_color=5dade2&amp;title_color=5dade2&amp;icon_color=5dade2&amp;text_color=c9d1d9&amp;count_private=true&amp;include_all_commits=true&amp;hide_border=false"/>
+<img height="170" src="https://github-readme-stats.vercel.app/api?username=dhaferknani&show_icons=true&theme=tokyonight&bg_color=0d1117&border_color=5dade2&title_color=5dade2&icon_color=5dade2&text_color=c9d1d9&count_private=true&include_all_commits=true&hide_border=false"/>
 &nbsp;&nbsp;
-<img height="170" src="https://github-readme-stats.vercel.app/api/top-langs/?username=dhaferknani&amp;layout=compact&amp;theme=tokyonight&amp;bg_color=0d1117&amp;border_color=5dade2&amp;title_color=5dade2&amp;text_color=c9d1d9&amp;langs_count=8"/>
+<img height="170" src="https://github-readme-stats.vercel.app/api/top-langs/?username=dhaferknani&layout=compact&theme=tokyonight&bg_color=0d1117&border_color=5dade2&title_color=5dade2&text_color=c9d1d9&langs_count=8"/>
 
 <br/><br/>
 
-<img src="https://streak-stats.demolab.com?user=dhaferknani&amp;theme=tokyonight&amp;background=0d1117&amp;border=5dade2&amp;stroke=5dade2&amp;ring=5dade2&amp;fire=ff9900&amp;currStreakLabel=5dade2&amp;sideLabels=79c0ff&amp;currStreakNum=ffffff&amp;sideNums=ffffff&amp;dates=555e7a" alt="GitHub Streak"/>
+<img src="https://streak-stats.demolab.com?user=dhaferknani&theme=tokyonight&background=0d1117&border=5dade2&stroke=5dade2&ring=5dade2&fire=ff9900&currStreakLabel=5dade2&sideLabels=79c0ff&currStreakNum=ffffff&sideNums=ffffff&dates=555e7a" alt="GitHub Streak"/>
 
 <br/><br/>
 
-<img src="https://github-readme-activity-graph.vercel.app/graph?username=dhaferknani&amp;bg_color=0d1117&amp;color=5dade2&amp;line=79c0ff&amp;point=5dade2&amp;area_color=0a3d62&amp;area=true&amp;border_color=5dade2&amp;custom_title=Contribution+Activity" width="96%"/>
+<img src="https://github-readme-activity-graph.vercel.app/graph?username=dhaferknani&bg_color=0d1117&color=5dade2&line=79c0ff&point=5dade2&area_color=0a3d62&area=true&border_color=5dade2&custom_title=Contribution+Activity" width="96%"/>
 
 <br/>
 
 <a href="https://github.com/ryo-ma/github-profile-trophy">
-  <img src="https://github-profile-trophy.vercel.app/?username=dhaferknani&amp;theme=tokyonight&amp;column=7&amp;margin-w=8&amp;no-bg=true" alt="trophies"/>
+  <img src="https://github-profile-trophy.vercel.app/?username=dhaferknani&theme=tokyonight&column=7&margin-w=8&no-bg=true" alt="trophies"/>
 </a>
 
 </div>
@@ -314,11 +314,11 @@ Looking for **internship opportunities**, **research collaborations**, and **ope
 <br/>
 
 <a href="https://www.linkedin.com/in/dhafer-knani-b363b72a6/">
-  <img src="https://img.shields.io/badge/Connect%20on%20LinkedIn-0A66C2?style=for-the-badge&amp;logo=linkedin&amp;logoColor=white"/>
+  <img src="https://img.shields.io/badge/Connect%20on%20LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white"/>
 </a>
 &nbsp;
 <a href="mailto:dhaferdhaferknani@gmail.com">
-  <img src="https://img.shields.io/badge/Send%20an%20Email-EA4335?style=for-the-badge&amp;logo=gmail&amp;logoColor=white"/>
+  <img src="https://img.shields.io/badge/Send%20an%20Email-EA4335?style=for-the-badge&logo=gmail&logoColor=white"/>
 </a>
 
 </div>
@@ -328,7 +328,7 @@ Looking for **internship opportunities**, **research collaborations**, and **ope
 <div align="center">
 
 <!-- ✅ FOOTER — plain ASCII only, no emoji in URL -->
-<img src="https://capsule-render.vercel.app/api?type=waving&amp;color=0:0d1117,40:0a3d62,100:0d1117&amp;height=120&amp;section=footer&amp;text=Soldering%20by%20day%20%E2%80%A2%20Committing%20by%20night&amp;fontSize=16&amp;fontColor=5dade2&amp;fontAlignY=65" width="100%"/>
+<img src="https://capsule-render.vercel.app/api?type=waving&color=0:0d1117,40:0a3d62,100:0d1117&height=120&section=footer&text=Soldering%20by%20day%20%E2%80%A2%20Committing%20by%20night&fontSize=16&fontColor=5dade2&fontAlignY=65" width="100%"/>
 
 <sub><b>Dhafer Knani</b> &nbsp;·&nbsp; Electronics & Automation Engineer &nbsp;·&nbsp; Sousse, Tunisia 🇹🇳</sub>
 
