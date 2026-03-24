@@ -1,6 +1,6 @@
 <!-- ================================================================ -->
 <!--  README — Dhafer Knani · Electronics & Automation Engineer       -->
-<!--  IMPORTANT: Replace every YOUR_GITHUB_USERNAME with your exact  -->
+<!--  IMPORTANT: Replace every knani02 with your exact  -->
 <!--  GitHub username (find it at github.com → your profile URL)     -->
 <!-- ================================================================ -->
 
@@ -25,16 +25,16 @@
   <img src="https://img.shields.io/badge/Gmail-dhaferknani02%40gmail.com-EA4335?style=for-the-badge&amp;logo=gmail&amp;logoColor=white"/>
 </a>
 &nbsp;
-<a href="https://github.com/YOUR_GITHUB_USERNAME">
-  <img src="https://img.shields.io/badge/GitHub-YOUR__GITHUB__USERNAME-181717?style=for-the-badge&amp;logo=github&amp;logoColor=white"/>
+<a href="https://github.com/knani02">
+  <img src="https://img.shields.io/badge/GitHub-knani02-181717?style=for-the-badge&amp;logo=github&amp;logoColor=white"/>
 </a>
 
 <br/><br/>
 
 <!-- ✅ STATS COUNTERS — username must match exactly -->
-<img src="https://komarev.com/ghpvc/?username=YOUR_GITHUB_USERNAME&amp;color=5dade2&amp;style=flat-square&amp;label=Profile+Views" alt="views"/>
+<img src="https://komarev.com/ghpvc/?username=knani02&amp;color=5dade2&amp;style=flat-square&amp;label=Profile+Views" alt="views"/>
 &nbsp;
-<img src="https://img.shields.io/github/followers/YOUR_GITHUB_USERNAME?style=flat-square&amp;color=5dade2&amp;label=Followers" alt="followers"/>
+<img src="https://img.shields.io/github/followers/knani02?style=flat-square&amp;color=5dade2&amp;label=Followers" alt="followers"/>
 
 </div>
 
@@ -43,7 +43,7 @@
 <img align="right" alt="Coding GIF" width="360"
   src="https://user-images.githubusercontent.com/74038190/229223263-cf2e4b07-2615-4f87-9c38-e37600f8381a.gif"/>
 
-### Hey there, I'm dhafer_knani! 👋
+### Hey there, I'm Dhafer! 👋
 
 I'm a **final-year Electronics & Automation Engineering student**
 at **École Polytechnique de Sousse, Tunisia 🇹🇳**,
@@ -254,26 +254,26 @@ control_toolkit = {
 
 ## 📊 GitHub Stats
 
-> ⚠️ **Replace `YOUR_GITHUB_USERNAME` below with your exact GitHub username before publishing**
+> ⚠️ **Replace `knani02` below with your exact GitHub username before publishing**
 
 <div align="center">
 
-<img height="170" src="https://github-readme-stats.vercel.app/api?username=YOUR_GITHUB_USERNAME&amp;show_icons=true&amp;theme=tokyonight&amp;bg_color=0d1117&amp;border_color=5dade2&amp;title_color=5dade2&amp;icon_color=5dade2&amp;text_color=c9d1d9&amp;count_private=true&amp;include_all_commits=true&amp;hide_border=false"/>
+<img height="170" src="https://github-readme-stats.vercel.app/api?username=knani02&amp;show_icons=true&amp;theme=tokyonight&amp;bg_color=0d1117&amp;border_color=5dade2&amp;title_color=5dade2&amp;icon_color=5dade2&amp;text_color=c9d1d9&amp;count_private=true&amp;include_all_commits=true&amp;hide_border=false"/>
 &nbsp;&nbsp;
-<img height="170" src="https://github-readme-stats.vercel.app/api/top-langs/?username=YOUR_GITHUB_USERNAME&amp;layout=compact&amp;theme=tokyonight&amp;bg_color=0d1117&amp;border_color=5dade2&amp;title_color=5dade2&amp;text_color=c9d1d9&amp;langs_count=8"/>
+<img height="170" src="https://github-readme-stats.vercel.app/api/top-langs/?username=knani02&amp;layout=compact&amp;theme=tokyonight&amp;bg_color=0d1117&amp;border_color=5dade2&amp;title_color=5dade2&amp;text_color=c9d1d9&amp;langs_count=8"/>
 
 <br/><br/>
 
-<img src="https://streak-stats.demolab.com?user=YOUR_GITHUB_USERNAME&amp;theme=tokyonight&amp;background=0d1117&amp;border=5dade2&amp;stroke=5dade2&amp;ring=5dade2&amp;fire=ff9900&amp;currStreakLabel=5dade2&amp;sideLabels=79c0ff&amp;currStreakNum=ffffff&amp;sideNums=ffffff&amp;dates=555e7a" alt="GitHub Streak"/>
+<img src="https://streak-stats.demolab.com?user=knani02&amp;theme=tokyonight&amp;background=0d1117&amp;border=5dade2&amp;stroke=5dade2&amp;ring=5dade2&amp;fire=ff9900&amp;currStreakLabel=5dade2&amp;sideLabels=79c0ff&amp;currStreakNum=ffffff&amp;sideNums=ffffff&amp;dates=555e7a" alt="GitHub Streak"/>
 
 <br/><br/>
 
-<img src="https://github-readme-activity-graph.vercel.app/graph?username=YOUR_GITHUB_USERNAME&amp;bg_color=0d1117&amp;color=5dade2&amp;line=79c0ff&amp;point=5dade2&amp;area_color=0a3d62&amp;area=true&amp;border_color=5dade2&amp;custom_title=Contribution+Activity" width="96%"/>
+<img src="https://github-readme-activity-graph.vercel.app/graph?username=knani02&amp;bg_color=0d1117&amp;color=5dade2&amp;line=79c0ff&amp;point=5dade2&amp;area_color=0a3d62&amp;area=true&amp;border_color=5dade2&amp;custom_title=Contribution+Activity" width="96%"/>
 
 <br/>
 
 <a href="https://github.com/ryo-ma/github-profile-trophy">
-  <img src="https://github-profile-trophy.vercel.app/?username=YOUR_GITHUB_USERNAME&amp;theme=tokyonight&amp;column=7&amp;margin-w=8&amp;no-bg=true" alt="trophies"/>
+  <img src="https://github-profile-trophy.vercel.app/?username=knani02&amp;theme=tokyonight&amp;column=7&amp;margin-w=8&amp;no-bg=true" alt="trophies"/>
 </a>
 
 </div>
